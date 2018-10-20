@@ -1,0 +1,16 @@
+body {
+	background-color: green;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Comic Sans",sans-serif;
+	font-size: 40px;
+	color: blue;
+}
+
+ul.square {
+	list-style-type: square;
+	font-family: "fancy",fancy"
+}
+
